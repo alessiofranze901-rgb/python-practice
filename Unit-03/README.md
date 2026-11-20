@@ -26,6 +26,7 @@ Each row links to the problem statement. IDs follow `Unit-Chapter-Question`.
 
 | Problem                            | Title              |
 | ---------------------------------- | ------------------ |
+<<<<<<< HEAD
 | [03-03-01](Chapter-03/03-03-01.md) | Meow Meow     |
 | [03-03-02](Chapter-03/03-03-02.md) | Luna's Leaps     |
 | [03-03-03](Chapter-03/03-03-03.md) | Happy Holidays     |
@@ -34,6 +35,13 @@ Each row links to the problem statement. IDs follow `Unit-Chapter-Question`.
 | [03-03-06](Chapter-03/03-03-06.md) | 101 Pyramid (easy) |
 | [03-03-07](Chapter-03/03-03-07.md) | 101 Pyramid (hard) |
 | [03-03-08](Chapter-03/03-03-08.md) | 101 Pyramid (harder) |
+=======
+| [03-03-01](Chapter-03/03-03-01.md) | Happy Holidays     |
+| [03-03-02](Chapter-03/03-03-02.md) | Factorials         |
+| [03-03-03](Chapter-03/03-03-03.md) | Asterisk Pyramid   |
+| [03-03-04](Chapter-03/03-03-04.md) | 101 Pyramid (easy) |
+| [03-03-05](Chapter-03/03-03-05.md) | 101 Pyramid (hard) |
+>>>>>>> upstream/main
 
 ## Chapter 4 - Loop control: repeat prompts, `break`, `continue`, `random`
 
